@@ -1,0 +1,2 @@
+# NGPG
+New generation pygame
